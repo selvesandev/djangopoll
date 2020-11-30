@@ -1,7 +1,17 @@
 # Django
 
+
+```python
+python3 manage.py startproject polls
+```
+
 ```python
 python3 manage.py startapp polls
+```
+
+
+```python
+python3 manage.py runserver
 ```
 
 ```python
